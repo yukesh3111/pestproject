@@ -3,3 +3,5 @@ python-dotenv
 requests
 pillow
 flask-cors
+transformers
+huggingface-hub
